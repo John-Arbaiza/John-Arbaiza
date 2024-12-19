@@ -87,12 +87,16 @@
 
 <div align="center">
   <br>
-  <p align="center"><b>Visitors Count 👽 </b></p>  
+  <p align="center"><b>Visitors Count <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" /> </b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/John-Arbaiza/count.svg" /></p> 
   <br>
 </div>
 
+<div align="center" >
+  
+  ## Gracias por visitar mi perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pleading%20Face.png" alt="Pleading Face" width="25" height="25" />
 
+</div>
 
 
 
